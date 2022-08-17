@@ -1,1 +1,1 @@
-Web template for dry fruit web site .
+Web template for fruit web site .
