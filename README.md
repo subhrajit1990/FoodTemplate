@@ -1,1 +1,1 @@
-Web template for food
+Web template for dry fruit web site
