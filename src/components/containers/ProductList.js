@@ -71,7 +71,6 @@ class ProductList extends Component {
     return (
       <AddToCartContext.Provider value={{ action: this.props.addToCartAction }}>
         <div className="container">
-          <h3 className="center">Product List</h3>
           <ProductListSummary currentPageItemStart={currentPageItemStart} currentPageItemEnd={currentPageItemEnd} totalProductCount={totalProductCount} />
           <div className="row">
             {productListMarkup}
